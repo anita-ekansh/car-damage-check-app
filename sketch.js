@@ -7,7 +7,7 @@ var road,roadImage;
 function preload(){
 
 carImage = loadImage ("car2.png");
-roadImage = loadImage ("road2.png");
+roadImage = loadImage ("road.png");
 wallImage = loadImage ("wall.png");
 
 }
